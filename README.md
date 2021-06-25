@@ -12,7 +12,7 @@ The image is based on Alpine to reduce size. It works, for now, only on Linux ho
 
 If you want to donate for that project, here is my Wallet address:
 
-`44vjAVKLTFc7jxTv5ij1ifCv2YCFe3bpTgcRyR6uKg84iyFhrCesstmWNUppRCrxCsMorTP8QKxMrD3QfgQ41zsqMgPaXY5`
+`45WsYUi3KbYUGHJT2FaqBubrF9wiLjbZXHJgt8HZL9MBH1SRV7ZgVpeFLfbf4yWQhs7MuKNEenJ896P7U5XfSQzRSR92cmm`
 
 Or, use that docker container with default options to give me CPU time.
 
