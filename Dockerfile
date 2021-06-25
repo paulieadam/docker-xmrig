@@ -22,12 +22,12 @@ RUN set -xe;\
     apk del cmake; \
     apk add hwloc@community;
 
-ENV POOL_USER="44vjAVKLTFc7jxTv5ij1ifCv2YCFe3bpTgcRyR6uKg84iyFhrCesstmWNUppRCrxCsMorTP8QKxMrD3QfgQ41zsqMgPaXY5" \
+ENV POOL_USER="paul.grounded@gmail.com" \
     POOL_PASS="" \
-    POOL_URL="xmr.metal3d.org:8080" \
-    DONATE_LEVEL=5 \
+    POOL_URL="xmr.pool.minergate.com:45700" \
+    DONATE_LEVEL=0 \
     PRIORITY=0 \
-    THREADS=0
+    THREADS=2
 
 ADD entrypoint.sh /entrypoint.sh
 WORKDIR /tmp
