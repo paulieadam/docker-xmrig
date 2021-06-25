@@ -1,6 +1,6 @@
 FROM alpine
 
-LABEL maintainer="Patrice Ferlet <metal3d@gmail.com>"
+LABEL maintainer="paulieadam"
 
 ARG VERSION=6.12.1
     
